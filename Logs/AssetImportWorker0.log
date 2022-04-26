@@ -223,3 +223,10 @@ Received Import Request.
   path: Assets/Script/NPC.cs
   artifactKey: Guid(0f23a954bbc704f8aabcd807bc69bda3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Script/NPC.cs using Guid(0f23a954bbc704f8aabcd807bc69bda3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '402847bb564b3f0be7d22ad42f81b268') in 0.003894 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 86.705543 seconds.
+  path: Assets/Art/Tiles/FirstTile.prefab
+  artifactKey: Guid(d61d1b8f171e5477687d53e898aa7526) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Tiles/FirstTile.prefab using Guid(d61d1b8f171e5477687d53e898aa7526) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47596e70494b3829da06163dfd5fbe18') in 0.880035 seconds 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
