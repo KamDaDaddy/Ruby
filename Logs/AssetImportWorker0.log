@@ -649,3 +649,4 @@ Received Import Request.
   path: Assets/Art/Sprites/VFX/ParticleSpriteAtlas.png
   artifactKey: Guid(bb5bb2f184426a64cac53faa220820f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Art/Sprites/VFX/ParticleSpriteAtlas.png using Guid(bb5bb2f184426a64cac53faa220820f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '683c74a6ea654efded967bb5b02b525f') in 0.035215 seconds 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
